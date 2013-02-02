@@ -1,0 +1,12 @@
+Bill of Materials - ToJ Apparatus
+
+1 x Arduino Duemilanove (2009 edition Arduino, others equally compatible)
+1 x USB cable for Arduino
+2 x LEDs, 10mm, white, diffuse; 5,000 mCd typ. intensity at 20 mA; data sheet
+    http://shop.emscdn.com/catalog/components/semi/LED/datasheets/BL-L101xxW.pdf
+2 x push buttons
+1 x 10 ohms resistor; for LEDs
+2 x 1k ohms resistors; for push buttons
+7 x short (under 10cm) wires
+2 x super-short (under 4cm) wires
+1 x small prototyping board / breadboard
