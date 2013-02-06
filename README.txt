@@ -46,5 +46,10 @@ TimeOrderController: processing.org project for running experiments with the
 apparatus. Reads stimulus sequence files, commands the apparatus, and
 records responses and reaction times collected from apparatus to CSV.
 
-Refer to photos for an idea of its construction. A bill of materials and
-circuit diagram will be included once prepared.
+To make your own:
+
+- Check the bill of materials.
+- Consult the schematic and breadboard images for wiring.
+- Refer to photos for an idea of its construction.
+- Install the Arduino toolkit to load the software to the device.
+- Install the Processing.org toolkit to run the experiment controller.
